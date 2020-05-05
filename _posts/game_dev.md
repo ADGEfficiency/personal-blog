@@ -1,0 +1,169 @@
+Lately I've been digging into the GDC YouTube channel - a fantastic collection of talks about the design and development of games.  The principles and lessons shared crossover into any creative process - they tie into the fundamentals about what it means to design products that engage human beings.
+
+### Find your creative process and defend it
+
+If you want to do anything for a lifetime, you need a process that doesn’t rub at you.  You are going to have hard times - managing these in your own individual way is the only way to get through to the other side.
+
+One example of this was a developer that enjoyed working on multiple projects at the same time (something I also enjoy).  Be clear and intentional about how you work best, and don't sacrifice it.
+
+### A focus on player emotional experience
+
+Game developers design for the **emotional experience of players**.  The key question is - what emotional response are you trying to create?
+
+Care is taken to design games that evoke specific emotional responses.  Emotional responses allow the gameplay to be relevant to players.  It's not only positive responses - negative emotions have their place as well.
+
+This even goes so far as to **design backward** - to start with the emotional response that the designer wants to achieve and work backward to game features that will achieve it.
+
+### Respect psychology
+
+Gameplay occurs entirely in the human brain.  Game design must respect the counterintuitive irrational biases that evolution has given us.
+
+One example is the asymmetric reaction to reward and punishment.  Players have no problem with receiving rewards (even if they don't deserve them!) but react badly to punishment.  Players want to feel powerful and have their influence be visible.   People also want to feel smart.
+
+It's also important to understand human perception.  Aesthetics matter - we like to look at things in certain ways.
+
+We also like patterns - the brain loves to store and retrieve patterns.  Fractals are recursive and repetitive patterns that can be used as lenses through which to see a wide variety of design techniques.
+
+The importance of story and narratives can't be understated.  Narratives come in three forms - explicit, implicit and emerging.  Implicit story telling avoids using words to tell the story.  Emerging narratives develop from player choice - helping engagement.
+
+### Learning & rewards
+
+Another way to get players committed and invested into a game is through **learning and advancement**.  The brain enjoys learning - it is a rewarding form of progress.
+
+'Scaffolding' can be used as a teaching tool - starting with a simple example and expanding the challenge (aka a learning fractal).
+
+Learning can be made eaiser by taking advantage of preexisting knowledge - don't teach players what they already know.  When you do need to give the player advice, tell the player what to do, but not how to do it.
+
+Increasing the amount of explicit rewards at the start of games helps to get players committed and invested.   This helps create anticipation of more reward in the future.
+
+Letting players explore helps with engagement - players are more interested in things they find or initiate themselves.  But make the fun part of your game easy to find!  This can also be read as - give your player choice, but not too much choice!
+
+### Personalization & customization
+
+Letting players make the game their own by giving them choices that create ownership and identity.  Let players customize something that is unique to them.
+
+### Minimum viable products
+
+Quickly building and shipping a product to get user feedback is as important in game development as it is in lean/agile software development.
+
+A minimum viable product is crucial for testing a specific idea - but it is as important to iterate on ideas before you iterate on implementations.
+
+The initial stages of design should be a wide creative process that finds out what works through playable prototypes.  Test risky design through prototypes, not on paper.
+
+It's important to review often, be honest, flexible and adapt.  Expect and be ready for problems and failures.  Don't be afraid to be embarrassed by your early efforts.
+
+Don't take user feedback is not gospel - users are good at recognizing problems, but often bad at solving them.
+
+While context can help to guide design decisions, introducing context too early can constrain a project.
+
+When working on an iteration, focus on improving the worst 25%, while reusing as much as possible.  Ask - how little do I need to add?  What is the easiest thing to make?  Often you don't need to change much to change everything - small changes can have big impacts.
+
+## Working in small teams
+
+Lots of independent game development is done in small, multidisciplinary teams working for two to three years.  Crucial in small teams is knowing your own weaknesses and using your colleagues to cover for these weaknesses.
+
+Also crucial in small teams is doing something different - you can't compete with large companies doing exactly what they do.  Most of the time innovation isn't need - small companies can focus on the niches that are too small for large companies.
+
+## Polish it early
+
+Polish refers to things like pretty graphics, controller shaking and sound.  Usually this polish is added at the end of the development cycle.  But polish can also play a role earlier in development - as feedback for the developer.  Building polish in early allows the developer to better understand the game - what is working and what doesn't work.
+
+Polish gives the game the details that people fall in love with.  Details allow emotional bonds between the player and the game, and also give oppourtunities for individuality.
+
+### Replayability
+
+Getting players to play the game again can be done using powerful and interesting decisions - decisions that make the player want to play the other choice.  You want to plant the idea of 'next time' in the players mind.
+
+### Better to be loved and hated
+
+Many of the games covered at GDC are independent games - small niche products.  Designers are aware that they don't need to appeal to everyone - and that actually appealing to everyone means that you appeal to no one.  Trying to please everyone means that you please no one.  Often features that some users love, others hate.  It's important to design games that some people love, and not worry about the others that don't.  Fundamentally it's about dominating a niche.
+
+Design should be for the specific needs of a specific player - not averages across the entire audience.  Focus should be placed on **maximizing the positive responses**, and not on minimizing negatives.  If you design features that people hate, this is OK (as long as others love them).  The worst case is features that no one loves and no one hates - this makes people bored.
+
+### Visualize early
+
+This is the idea that had the most immediate impact on how I work.  The earlier you build tools to visualize what's going on, the sooner you can use them to help development.
+
+The key question to ask is **what would a picture of this system look like?**
+
+Some useful visualizations:
+- state transitions as a map
+- Heat maps
+- Traces of multiple runs on top of each other
+- Visit counts
+
+### Documentation
+
+Actionable documentation for specific people has become my paradigm for documentation.  Let's go through each element.
+
+Actionable means that the documents should let people do something - helping with engagement.  Specific people means that documentation should be aimed at a specific audience.  This can mean that multiple versions of the same document need to be built in different styles.  Often we get stuck in developing documentation in the same default style - there is actually a bit of scope for creative documentation that helps specific people in different ways.  The most memorable was the use of a Civilization style tech tree to present a course curriculum - an idea I'm going to use for my reinforcement learning course.
+
+There is also a focus on not developing exhaustive or comprehensive documentation - instead develop documents as needed.  It's also important to throw out documentation and make new docs as needed.
+
+### Use principles in design
+
+Rules and principles can be seen as the sum of prior experience.  Explicitly articulating these principles and using checklists can help integrate lessons learnt into future designs and expand your design vocabulary.
+
+### Don't use principles in design
+
+It's also important to break rules and principles in design.  Too much of a focus on rules can lead to making the wrong thing - sometimes it's correct to step back and challenge your in the context of what you are actually trying to achieve.
+
+### Constrained design
+
+The brain reuses neural pathways when solving similar problems, stifling creativity.  The value of constraints in design stem from forcing creative, exploratory and risky designs.
+
+Closely related to constraining the design process is using a different starting point or perspective when pondering a problem.
+
+Maybe your problem isn't a problem.
+
+### Don't be a perfectionist
+
+Perfectionism - the inverse of simplicity - perhaps *the* problem in all of design.  Design should only be done to improve the player experience. 
+
+A great example of this was a developer who let gameplay diverge between single-player and multi-player.  A more perfectionist approach would have insisted on consistency (perfectionism by another name) to the detriment of gameplay.
+
+### Don't let ego drive design
+
+There is a temptation to use design as a way to prove technical skill - avoid this!  Keep the focus on the emotional experience of the player.
+
+### Creating low dimensional summaries
+
+Game developers are often keen (or even forced into) displaying lots of infomation on a single screen.  A common mechanism for this is the use of powerbars to compactly represent the state of a large system.
+
+### Modular and bidirectional design
+
+Reusing components is as basic concept in game development as it software development.  Modular level design also offers the player a consistent expeirnece, allowing the player to better understand and learn within a game.
+
+Bidirectional level design is where a player first plays through a level, then plays back to where they initially started.  Modification of the level (say through weather or enemy types) gives the player a different experience when playing backwards through exactly the same level.
+
+## Understand all your users
+
+If your game is free to play then most of your users will not be paying - the design needs to take this into account.  Don't ignore users just because they aren't paying - free users can give value to a game through publicity, gameplay, content creation and community management.
+
+Test how the game feels from the free users perspective, and don't put up paywalls too early.  If the paywall comes too soon the player doesn't have the chance to fall in love with the game.  Early paywalls also create a expectation of having to pay often.
+
+Converting free users to paying shouldn't be about creating 'whales' - instead try to get the user to just spend their first dollar.  Make that dollar efficient and valuable for the user,
+
+The larger lesson in this principle is that you need to understand your users, no matter the business model.
+
+## Talks
+
+[FTL Postmortem: Designing Without a Pitch](https://www.youtube.com/watch?v=P4Um97AUqp4)
+
+[Magic: the Gathering: Twenty Years, Twenty Lessons Learned](https://www.youtube.com/watch?v=QHHg99hwQGY)
+
+[Rules of the Game: Five Techniques from Quite Inventive Designers](https://www.youtube.com/watch?v=d8QAVGeEj-U)
+
+[Rules of the Game: Another Five Techniques from Particularly Crafty Designers](https://www.youtube.com/watch?v=MVq1-y7ailE)
+
+[Sid Meier's Psychology of Game Design](https://www.youtube.com/watch?v=MtzCLd93SyU)
+
+[Ten Principles for Good Level Design](https://www.youtube.com/watch?v=iNEe3KhMvXM)
+
+[Failing to Fail: The Spiderweb Software Way](https://www.youtube.com/watch?v=stxVBJem3Rs)
+
+## Interesting decisions
+- tradeoffs, situational (creates variety) & personal.
+- how persitent is a decision - long term impacts mean deicions are more important
+- accomodate playstyles of your various users
+
