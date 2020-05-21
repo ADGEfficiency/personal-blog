@@ -1,5 +1,5 @@
 name: "Paradox is Truth"
-description: "A personal blog"
+description: "A Personal Blog"
 
 url: ''
 baseurl: ''
@@ -26,3 +26,6 @@ sass:
     style: :compressed
     sass_dir: assets/css/
 
+logo: "favicon.png"
+
+permalink: /:title

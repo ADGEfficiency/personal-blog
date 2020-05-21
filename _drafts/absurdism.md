@@ -29,4 +29,13 @@ existentialism, nihilism, Absurdism
 - all three arise from human experience of the Absurd
 - differ in their response
 
+---
 
+allows you to pick your own meaning in life
+- good and bad!
+
+---
+
+> Satasfactory theory of the universe has to be worth betting on - Alan Watts
+
+If you can make up a theory, make it worth living (or living for)
