@@ -5,7 +5,6 @@ benevelont dictator for life
 - important for software
 
 plato
-
 - dalai lama
 - evan you (vue)
 - guido

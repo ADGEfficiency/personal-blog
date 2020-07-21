@@ -19,9 +19,6 @@ notes go from
 
 ---
 
-
----
-
 ## Timeline
 
 ### Infancy

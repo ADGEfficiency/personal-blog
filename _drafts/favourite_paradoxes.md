@@ -2,6 +2,12 @@ Progress occurs by takinc away (not adding)
 
 Your strength is weakness, your weakness is your strength
 
+What is good for us makes us suffer
+
+Alan Watts Backwards Law
+
+first & second order effects
+
 
 Campbell_power_of_myth:
 - Life lives by killing itself

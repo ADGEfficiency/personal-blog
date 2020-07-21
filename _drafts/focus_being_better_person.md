@@ -10,3 +10,9 @@ Focus on being better person than policies
 Where to focus
 - politics or self
 - - producing peace and happiness for yourself = peace for the whole world (heart understanding)
+
+---
+
+# Politics
+
+## Focus on being a better person

@@ -2,25 +2,28 @@ PICTURE!!!!! - do for all personal blog posts :)
 
 ---
 
-Logical fallacies and biases are common errors in human reasoning.  They exist for a reason - they offer shortcuts for decision making.  The brain operates in a challenging environment - constantly having to filter out infomation, make conclusions quickly from incomplete infomation, decide what to remember and what to forget.
+Logical fallacies are errors in human reasoning.  They exist for a reason - in many cases they lead to good outcomes.  There are however situations where these shortcuts get us in trouble - awareness can help you to identify these situations and avoid tragedy.
 
-Automated shortcuts that are correct 90% of the time offer an advantage over slowly thinking your way through each situation.  Solving these problems quickly gave our ancestors an advantage - hence why we inherit them today.
+The brain operates in a challenging environment - constantly having to filter out infomation, make conclusions quickly from incomplete infomation, decide what to remember and what to forget.  The logical fallacy is a shortcut for decision making that allows quicker decisions.
 
-It's the 10% of situations where awareness of common fallacies can help.  It's especially important to be aware of the responses that make us vulnerable to others willing to exploit them.
+Automated shortcuts that are correct 90% of the time offer an advantage over slowly thinking your way through each situation.  Solving these problems quickly gave our ancestors an advantage - hence why we inherit them today.  It's the 10% of situations where awareness of common fallacies can help.  It's especially important to be aware of the responses that make us vulnerable to others willing to exploit them.
 
-In this post I'm going to highlight some of my favourite logical fallacies.
 
 ## Social proof
 
 > Where all think alike, no one thinks very much - Walter Lippman
 
-Social proof is copying the behaviour of others.  It is useful and effective in social situations where correct behaviour is ambiguous or unclear.
+**Social proof is copying the behaviour of others**.  It is useful in social situations where correct behaviour is ambiguous or unclear.
 
-The problems arise when we copy in a mindless or reflexive fashion - automatically copying without question.
+*Example - *
 
-A worst case of social proof is the bystander effect.  In 1964 Kitty Genovese was murdered in New York with 38 witnesses - none of whom helped.  Each one looked to the other for guidance on how to act - and concluded that no helping was appropriate.
+The problems arise when we copy in a mindless or reflexive fashion - automatically copying without question.  This can lead to decision making that is only based on imitation - even if the outcome is bad.
 
-Another example of this is - group members going along with a norm they privately reject to fit in with the group (known as pluralistic ignorance).  Many Germans in the 1930's are likely to either have become Nazi or appeared as Nazi because of social proof.  This public commitment leads nicely into our second group of fallacies - consistency and commitment.
+A famous example of social proof is the bystander effect.  In 1964 Kitty Genovese was murdered in New York with 38 witnesses - none of whom helped.  Each one looked to the other for guidance on how to act - and concluded that no helping was appropriate.
+
+If you are wondering how Kitty could have made one of the bystanders help - it would be to address a specific person, rather than making general cries for help.
+
+Another example of this is - group members going along with a norm they privately reject to fit in with the group (known as pluralistic ignorance).  Many Germans in the 1930's are likely to either have become Nazi or appeared as Nazi because of social proof.  This leads nicely into our second group of fallacies - consistency and commitment.
 
 ## Consistency and commitment
 
@@ -30,15 +33,15 @@ Commitment bias is the desire to be (and appear to be) consistent with our past 
 
 Most people think that our thoughts drive our behaviour - these biases are examples of how it's the opposite.  Our past commitments and actions form the mental model we have of ourselves.  Nothing influences your own self images as your past behaviour.
 
-The consistency and commitment bias developed from the usefulness of automating decisions - instead of remaking decisions, we just look to our past actions for guidance on what to do next.
+The consistency and commitment bias developed from the usefulness of automating decisions - instead of remaking decisions, we look to our past actions for guidance on what to do next.
 
-The problems arise when we feel pressure to be consistent with sub-optimal past actions or commitments - such as eating poorly because 'thats what I do on a Friday'.
+The problems arise when we feel pressure to be consistent with sub-optimal past actions or commitments - such as eating poorly because 'thats what I do on a Friday', or more deadly - 'this is what I'm like'.
 
 Examples of commitment bias include the foot in the door technique - first asking for small commitment, then larger one.  Starting with small commitment changes how people view themselves - they become the kind of person that does that kind of thing (such as donating to charity).  Be careful about agreeing to trivial requests!
 
 Consistency and commitment is a fallacy that can hacked to your advantage.  The more effort you put into committing to who you want to be, the more likely you will act in that way.  It's also worth catching moments when you make statements like 'I am lazy' or 'I am confident'.  These statements will impact how you act - make sure they affirm the qualities you want.  Public commitments create additional pressure for consistency.  The more you can make your commitment public, the better (or perhaps worse!).
 
-## Fallacies and biases in our memory
+## Memory problems
 
 > Don't believe everything you think - Thubten Chodron
 
@@ -87,7 +90,7 @@ Related to the sunk cost fallacy is the goal gradient effect - where we put more
 
 > ... our first-person point of view of our own minds is not so different from our second-person point of view of others’ minds: we don’t see, or hear, or feel, the complicated neural machinery churning away in our brains but have to settle for an interpreted, digested version, a user-illusion that is so familiar to us that we take it not just for reality but also for the most indubitable and intimately known reality of all. That’s what it is like to be us - Daniel C. Dennet - From Bacteria to Bach and Back
 
-The introspection illusion is the mistaken belief that we have direct insight into the origins of our own mental states.  Most of the mental processes that drive how we think, feel and act are hidden to our conscious awareness.  Part of the human condition is to be unaware of this, and instead make confident but false explanations of our behaviour.
+The introspection illusion is the mistaken belief that we have direct insight into the origins of our mental states.  In reality, most of the mental processes that drive how we think, feel and act are hidden to our conscious awareness.  Part of the human condition is to be unaware of this, and instead make confident but false explanations of our behaviour.
 
 The usefulness of the introspection illusion is rather dark - it allows our subconscious to hide the reasons for our actions, allowing us to communicate to others a socially acceptable reason without knowing we are being deceptive.
 
@@ -99,7 +102,7 @@ Examples of the introspection illusion include donating money to charity for the
 
 > ... markets in which people are not completely sure of how to assess quality, they use price as a stand-in for quality - Robert Cialdini
 
-The price-value bias is our tendency to associate higher prices with higher quality.  It's evident in the common phenomenon of market shares increasing when a business raises prices.
+The price-value bias is our tendency to associate higher prices with higher quality.  It's evident in the common phenomenon of market shares increasing when a business raises prices.  People associate price with quality - if it's more expensive, it must better!
 
 The price-value bias can be useful when higher prices really do mean more value - the problem occurs when in reality it's just the cheaper stuff in a different packet.  It's worth noting here that value is customer dependent - if someone feels happier spending more money, then this is a form of value.
 
