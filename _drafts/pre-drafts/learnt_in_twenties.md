@@ -1,5 +1,7 @@
 Incorporate graduate stuff
 
+Rationalizing isn't rational
+
 # Lessons I learnt in my twenties
 
 ## It's more important to get back on the horse than to stay on it

@@ -1,5 +1,12 @@
 PICTURE!!!!! - do for all personal blog posts :)
 
+https://www.mentalmodelsbox.com/explore
+
+Map Territory
+- cognitive bias = error in how we think
+- base rate neglect = making judgements based on how well they fit together (the story) rather than how common each characteristic is
+- availability bias occurs more in modern times due to selective reporting
+
 ---
 
 Logical fallacies are errors in human reasoning.  They exist for a reason - in many cases they lead to good outcomes.  There are however situations where these shortcuts get us in trouble - awareness can help you to identify these situations and avoid tragedy.

@@ -1,3 +1,14 @@
+# ALL PETERSON
+> And what you aim at determines what you see . That’s worth repeating . What you aim at determines what you see - PETERSON
+
+> In consequence , we triage , when we see . Most of our vision is peripheral , and low resolution . We save the fovea for things of importance - PETERSON
+
+> There’s a profound idea in the ancient Vedic texts ( the oldest scriptures of Hinduism , and part of the bedrock of Indian culture ) : the world , as perceived , is maya — appearance or illusion . This means , in part , that people are blinded by their desires ( as well as merely incapable of seeing things as they truly are ) . This is true , in a sense that transcends the metaphorical . Your eyes are tools - PETERSON
+
+> They assumed , instead , that the Creator of Being knew what he was doing , that all power was essentially with Him , and that His dictates should be carefully followed . They were wise . He was a Force of Nature . Is a hungry lion reasonable , fair or just ? What kind of nonsensical question is that ?
+
+> It is instead the realization that the tragic irrationalities of life must be counterbalanced by an equally irrational commitment to the essential goodness of Being .
+
 # Evolution - the driving force
 
 > What does it take to be a craftsman? It takes time. It takes experience. It takes mentoring. And, it takes a lot of trial and error. In our industry the best, and possibly the only, way to refine your skill is to make lots and lots of mistakes; and to learn from others who have made lots and lots of mistakes. So thank goodness for those mistakes, and thank goodness for the people who made them. Without them, we’d have learned nothing. And especially thank the people who were willing to expose their mistakes to the world.

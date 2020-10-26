@@ -1,3 +1,9 @@
+## Social hacks
+
+Franklin’s opinion , asking someone for something ( not too extreme , obviously ) was the most useful and immediate invitation to social interaction . Such asking on the part of the newcomer provided the neighbour with an opportunity to show him - or herself as a good person , at first encounter .
+
+---
+
 Intellectual self confidence
 
 Being correct versus being useful

@@ -1,3 +1,17 @@
+Impermanence (Pāli: अनिच्चा aniccā; Sanskrit: अनित्य anitya; Tibetan: མི་རྟག་པ་ mi rtag pa; Chinese: 無常 wúcháng; Japanese: 無常 mujō)
+
+Suffering, unsatisfactoriness (Pāli: दुक्ख dukkha; Sanskrit: दुःख duḥkha; Tibetan: སྡུག་བསྔལ་ sdug bsngal; Chinese: 苦 kǔ; Japanese 苦 ku)
+
+No-self (Pāli: अनत्ता anattā; Sanskrit: अनात्मन् anātman; Tibetan: བདག་མེད་ bdag med; Chinese: 無我 wú-wǒ; Japanese: 無我 muga)
+
+---
+
+eletronica songs
+
+- rez, oh joy
+
+---
+
 convincing yourself you should be unhappy because`generic-cause-x`
 - `noise pollution`
 
@@ -111,3 +125,7 @@ C7 of happiness design
 is karma regression to the mean?
 
 like with science, in teaching you should change on dimension at time. this is because it is people on the end of understanding each time
+
+---
+
+https://youtu.be/alasBxZsb40?t=257 (strange paradox is true)

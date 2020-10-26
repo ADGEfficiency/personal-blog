@@ -5,19 +5,22 @@ permalink: /principles
 
 # Principles
 
+> This structure of concepts is formally called a hierarchy and since ancient times has been a basic structure for all Western knowledge - ZEN MOTOR
+
 These principles are ordered from the more abstract to more concrete.
 
 ## 1 - Abstract
 
-These principles are general - they could apply well in many universes, with many different kinds of actors.  These ideas are substrate independent.
+These principles are general - they could apply in many universes, with many different kinds of actors.  These ideas are substrate independent.
 
 ### Foundations
 
 - Acceptance
 - Impermanence
 - Interconnectedness
+- No-Self
 
-### Morality
+### [Morality]()
 
 - Kindness and Compassion
 - Generosity
@@ -33,10 +36,12 @@ These principles are specific - they apply to our universe and the human conditi
 
 ### Human Condition
 
-What it’s like to be us - the Human Condition
+*What it’s like to be us*
 
 This philosophy is specific to being human.  There is no attempt to search for absolute truths or immortal principles.   This philosophy addresses the reality of what its like to be the human animal.
 
-### Action
+### How to act
+
+*Strageties for moving through the world*
 
 - Acceptance

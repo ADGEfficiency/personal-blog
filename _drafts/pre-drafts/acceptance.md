@@ -1,3 +1,21 @@
+---
+layout: post
+title: Acceptance
+date: 2020-08-20
+excerpt: If we have any chance, we need to be honest about what we are like
+permalink: acceptance
+
+---
+
+LINK - small is beautiful review (not wealth that stands in the way but attachment to wealth)
+LINK - GITA, not attached to results of your work (picture of Arjuna)
+
+> “ No tree can grow to Heaven , ” adds the ever - terrifying Carl Gustav Jung , psychoanalyst extraordinaire , “ unless its roots reach down to Hell . ” 134 Such a statement should give everyone who encounters it pause . There was no possibility for movement upward , in that great psychiatrist’s deeply considered opinion , without a corresponding move down - PETERSON
+
+> The past exists only in our memories , the future only in our plans . The present is our only reality - ZEN MOTOR
+
+> The disadvantage to all this foresight and creativity is chronic unease and discomfort . Because we always contrast what is with what could be , we have to aim at what could be . But we can aim too high . Or too low . Or too chaotically . So we fail and live in disappointment , even when we appear to others to be living well - PETERSON
+
 We don't know if an experience is positive or negative - only know instatnenous reward (see Manson how how to give fuck) - sometimes painful experience is most beneficial in the long term
 
 ‘To know that you don’t know - this is the beginning of knowing’
