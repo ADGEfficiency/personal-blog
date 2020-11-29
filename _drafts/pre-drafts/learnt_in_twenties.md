@@ -1,6 +1,16 @@
+More is not always better (larger)
+Sleep, exercise
+
+The thing about good habits enabling bad habits etc
+
 Incorporate graduate stuff
 
 Rationalizing isn't rational
+
+Value of constraints
+- lesson from deep learning & programming
+- most general architectures are worst
+- Arbitrary constraints before you start - cost of going back after work is done is tiny, but making up constraints after work is done is massive (Godin Ferriss podcast)
 
 # Lessons I learnt in my twenties
 

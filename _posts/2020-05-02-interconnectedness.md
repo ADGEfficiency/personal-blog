@@ -86,5 +86,3 @@ Perhaps the most groundbreaking conclusion of temporal interconnectedness is tha
 ## Foundation of morality
 
 > Training in morality at its best is grounded in a theoretical or direct appreciation of one more assumption, that of interconnectedness. Interconnectedness at this level means an appreciation of the fact that we are all in this together and that we all share the wish to be happy. When we take into consideration our own needs and the needs of those around us, we are more likely to be naturally kind and considerate of ourselves and others. Thus, we try to make it a habit to try to take into account the feelings, opinions and welfare of those around us. (mastering core teaching)
-
-

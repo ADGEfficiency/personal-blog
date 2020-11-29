@@ -1,3 +1,11 @@
+Original theme
+- https://github.com/cyevgeniy/jekyll-true-minima
+
+
+Publications
+- https://medium.com/the-ascent
+
+
 Impermanence (Pāli: अनिच्चा aniccā; Sanskrit: अनित्य anitya; Tibetan: མི་རྟག་པ་ mi rtag pa; Chinese: 無常 wúcháng; Japanese: 無常 mujō)
 
 Suffering, unsatisfactoriness (Pāli: दुक्ख dukkha; Sanskrit: दुःख duḥkha; Tibetan: སྡུག་བསྔལ་ sdug bsngal; Chinese: 苦 kǔ; Japanese 苦 ku)
@@ -8,7 +16,7 @@ No-self (Pāli: अनत्ता anattā; Sanskrit: अनात्मन् a
 
 eletronica songs
 
-- rez, oh joy
+- rez, oh joy, gosh, glue
 
 ---
 

@@ -1,3 +1,6 @@
+Evolution = makes signal from noise - the noise is an error signal
+Evolution = turning noise into order
+
 Evolution is progress through pain.  Morality is the abscence of pain.
 
 Evolution is progress through separation.  Morality is feeling yourself and your surroundings as one.

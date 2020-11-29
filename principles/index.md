@@ -17,7 +17,7 @@ These principles are general - they could apply in many universes, with many dif
 
 - Acceptance
 - Impermanence
-- Interconnectedness
+- [Interconnectedness]()
 - No-Self
 
 ### [Morality]()
@@ -29,6 +29,7 @@ These principles are general - they could apply in many universes, with many dif
 ### Perception
 
 - Context
+- Emotional World Models
 
 ## 2 - Concrete
 
@@ -45,3 +46,4 @@ This philosophy is specific to being human.  There is no attempt to search for a
 *Strageties for moving through the world*
 
 - Acceptance
+- Post-Hypocrisy
